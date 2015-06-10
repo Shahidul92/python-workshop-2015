@@ -1,3 +1,4 @@
+
 # -*- coding: utf-8 -*-
 """
     functions.py - Getting Started - Functions
@@ -19,7 +20,7 @@ def fooa(arg1, arg2):
 
 def foob(*args):
     """
-        The function 'foob' takes a variable number of arguments
+        The function 'foob' takes a variable number of argu
         passed to the tuple 'args' and returns the average of them
     """
     n_args = len(args)
